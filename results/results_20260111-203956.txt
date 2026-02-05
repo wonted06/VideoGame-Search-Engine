@@ -1,0 +1,43 @@
+Query: mario
+Top 10 results: 
+
+1. ad5a45fd-b1c2-403c-970a-9e3ffa35a5b8.html
+  New Super Mario Bros. at Nintendo :: Games
+  score=10.2678
+
+2. PAiLoDtIisqI6LGIzgxv-8StrzB_dzOU.html
+  Mario vs. Donkey Kong 2: March of the Minis at Nintendo :: Games
+  score=9.9528
+
+3. 04Gtv-PD7ahbSlpNkVAnvkzgt5b3BpbX.html
+  Mario & Sonic at the Olympic Games at Nintendo :: Games
+  score=9.8077
+
+4. MCUpE9D08fjflx53qDeVYmcbFnzjmu3g.html
+  Mario & Sonic at the Olympic Games at Nintendo :: Games
+  score=9.8029
+
+5. _bua93nkRXBBWiJ8ulRPXASuK0xbcL8l.html
+  Super Paper Mario at Nintendo :: Games
+  score=9.7821
+
+6. rOhwzYb_mQCENHazWJ9C0aet-KIx3A7P.html
+  Super Mario Galaxy at Nintendo :: Games
+  score=9.5725
+
+7. bYOnzZFYh7E70cgflA2LY_o7i5sU382f.html
+  Mario Party DS at Nintendo :: Games
+  score=9.5287
+
+8. bf6eff85-6d2e-47f5-aa88-842dd0998eaa.html
+  Super Mario 64 DS at Nintendo :: Games
+  score=9.5065
+
+9. O8zz_eN8oGRK9ApOgJ86zbE6zRv3pdB2.html
+  Mario Kart Wii at Nintendo :: Games
+  score=9.4040
+
+10. c6e9969e-692f-47e1-b82a-8b765cc42fe5.html
+  Mario & Luigi: Partners in Time at Nintendo :: Games
+  score=9.3213
+

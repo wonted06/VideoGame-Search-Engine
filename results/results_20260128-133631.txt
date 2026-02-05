@@ -1,0 +1,19 @@
+Query: pokemon
+Top 10 results: 
+
+1. DeOFPgGyWuOlq-1NnmxduPxnfpvowFRd.html
+  Pokémon Mystery Dungeon: Explorers of Time at Nintendo :: Games
+  score=6.0914
+
+2. N5FoVWqOp8qQdAit67ST_Q1e1sI-_YdM.html
+  Pokémon Mystery Dungeon: Explorers of Darkness at Nintendo :: Games
+  score=6.0914
+
+3. Sw8fLPiPMydfaiwZREgJ2N6Q-wwFePWC.html
+  Pokémon Diamond at Nintendo :: Games
+  score=2.7437
+
+4. ANA0hHm9pZ9bCYJUbKSuTAo7G8uqJOHV.html
+  Pokémon Pearl at Nintendo :: Games
+  score=2.7051
+
