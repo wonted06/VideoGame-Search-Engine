@@ -77,9 +77,11 @@ The system uses a videogame dataset consisting of:
 
 - **727 HTML documents** (individual videogame pages)
 - A labelled CSV file containing metadata (e.g. publisher, genre)
-data/
-├── Videogames/        # HTML documents
-└── videogame.csv      # Metadata and relevance labels
+
+| Data | Description |
+|------------|------------|
+| `Videogames/` | HTML documents |
+| `videogame.csv` | Metadata and relevance labels |
 
 The HTML collection is used for indexing and retrieval, while the CSV file supports **evaluation and relevance set construction**.
 
@@ -96,16 +98,20 @@ The HTML collection is used for indexing and retrieval, while the CSV file suppo
 ---
 
 ## Project Structure
-src/
-├── main.py               # CLI search demo
-├── experiments.py        # Experiment runner and evaluations
-├── parser.py             # HTML parsing and noise removal
-├── tokeniser.py          # Text preprocessing pipeline
-├── indexer.py            # Inverted index construction
-├── ranker.py             # TF-IDF, BM25, evaluation metrics
-├── evaluation_tests.py   # Metric validation tests
-├── main_test.py          # Optional development/debug script
-└── results/              # Auto-generated ranked outputs
+| Path / File | Description |
+|------------|------------|
+| `src/main.py` | Command-line search interface for interactive querying |
+| `src/experiments.py` | Experimental pipeline for TF-IDF vs BM25 evaluations |
+| `src/parser.py` | HTML parsing and noise removal |
+| `src/tokeniser.py` | Text preprocessing pipeline (tokenisation, stop-words, stemming) |
+| `src/indexer.py` | Inverted index construction |
+| `src/ranker.py` | TF-IDF ranking, BM25 ranking, evaluation metrics |
+| `src/evaluation_tests.py` | Validation tests for Precision@k and Recall@k |
+| `src/main_test.py` | Optional development/debug script |
+| `data/Videogames/` | HTML document collection (727 pages) |
+| `data/videogame.csv` | Metadata and relevance labels |
+| `results/` | Auto-generated ranked result outputs |
+| `README.md` | Project documentation |
 
 ---
 
